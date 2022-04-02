@@ -29,7 +29,7 @@ in_title == 1 && !/^Figure/{print;}
 in_title == 1 && /^Figure [0-9]+/ {
   count = count + 1;
   in_title = 0; print part_before_graph; 
-  print "\\includegraphics[width=0.4\\textwidth]{media/output_image-00" count ".png}";
+  print "\\includegraphics[width=0.4\\textwidth]{media/output_image-00" count-1 ".png}";
   print part_after_graph; print part_after_problem
 }
 

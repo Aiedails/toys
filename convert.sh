@@ -103,13 +103,13 @@ part_after_hw_number_before_due_date="}
 \\\\newcommand{\\\\hmwkDueDate}{"
 part_after_due_date="}"
 part_before_t1="
-\\\\newcommand{\\\\hmwkClass}{Your Course}
-\\\\newcommand{\\\\hmwkClassInstructor}{Your Pofes}
+\\\\newcommand{\\\\hmwkClass}{EE111 Spring 2022}
+\\\\newcommand{\\\\hmwkClassInstructor}{Professor Ziyu Shao}
 
 \\\\newcommand{\\\\hmwkClassID}{\\\\circled{1}}
 
-\\\\newcommand{\\\\hmwkAuthorName}{Your Name}
-\\\\newcommand{\\\\hmwkAuthorID}{Your Id}
+\\\\newcommand{\\\\hmwkAuthorName}{Zhiyi Wang}
+\\\\newcommand{\\\\hmwkAuthorID}{2020533086}
 
 
 %
